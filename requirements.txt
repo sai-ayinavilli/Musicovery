@@ -35,7 +35,6 @@ pycparser
 pyOpenSSL
 requests
 requests-oauthlib
-rsa8
 six
 tensorboard
 tensorboard-data-server
