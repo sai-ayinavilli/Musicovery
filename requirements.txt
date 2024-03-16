@@ -49,3 +49,4 @@ urllib3
 Werkzeug
 wrapt
 zipp
+pytest-cov==2.12.1
