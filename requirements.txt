@@ -49,3 +49,4 @@ Werkzeug
 wrapt
 zipp
 pytest-cov
+tensorrt
